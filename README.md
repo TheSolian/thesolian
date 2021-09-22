@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @levingsell
 - 👀 I’m interested in Gaming and Programming
-- 🌱 I’m currently learning Computer scientist
+<!-- - 🌱 I’m currently learning Computer scientist -->
 - 📫 How to reach me levin.gsell@bluewin.ch
 
 <!---
