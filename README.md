@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thesolian
+#👋 Hi, I’m @thesolian
 - 👀 I’m interested in Gaming and Programming
 <!-- - 🌱 I’m currently learning Computer scientist -->
 - 📫 How to reach me levin.gsell@bluewin.ch
